@@ -48,9 +48,7 @@ class Cliente:
     def __init__(self, nombre, email):
         self.nombre = nombre
         self.email = email
-
-    #def mostrar_info(self): # Sobrescritura
-    #    return f"Cliente: {self.nombre} (ID: {self.id_cliente})"
+        
     def __str__(self):
         return f"Cliente: {self.nombre}, Email: {self.email}"
 
