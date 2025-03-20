@@ -52,7 +52,7 @@ if __name__ == '__main__':
     unittest.main()
 
 """
-Resumen de la Prueba Unitaria
+Pruebas Unitarias:
  - setUp(): Configura el entorno de prueba creando una instancia de la tienda (Tienda).
  - Agrega tres productos (uno físico con stock, uno digital y otro físico con poco stock).
  - Crea un cliente (Cliente) y un carrito de compras (Carrito).

@@ -69,11 +69,12 @@ python Leysly_Mendoza_SimuladorTienda.py
 
 1. Ejecuta el programa:
 ```bash
-python Leysly_Menzodoza_SimuladorTienda.py
+python Leysly_Mendoza_SimuladorTienda.py
 ```
 2. Para ejecutar las pruebas unitarias:
 ```bash
 python -m unittest Leysly_Mendoza_SimuladorTienda.py
+python -m unittest pruebas.py
 ```
 
 ---
