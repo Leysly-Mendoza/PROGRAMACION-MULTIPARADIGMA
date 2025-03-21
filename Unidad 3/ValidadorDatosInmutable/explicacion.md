@@ -7,7 +7,7 @@ El área de aplicación elegida es la **validación de hechizos en el universo d
 - El tipo de uso debe ser válido (ataque, defensa, otro).  
 
 Se eligió este tema porque combina **fantasía y programación**, aplicando validaciones en un contexto original y entretenido. 
-Y aunque no tiene una aplicación para aplicarse en la vida real, personalmente me sirvió para comprender el tema y asociarlo a un tema que me gusta. 
+Aunque no tiene una aplicación práctica en la vida real, me ayudó a comprender mejor el tema y relacionarlo con algo que me apasiona.
 
 ----------
 
